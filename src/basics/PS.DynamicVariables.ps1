@@ -1,9 +1,9 @@
 ﻿#PowerShell - By Jonathan P. Marinho | 12/09/2023 - 19:41
 
-$DynamiVariable = 'This is a dynamic variable';
+$DynamicVariable = 'This is a dynamic variable';
 
-Write-Host $DynamiVariable;
+Write-Host $DynamicVariable;
 
-$DynamiVariable = 7000;
+$DynamicVariable = 7000;
 
-Write-Host $DynamiVariable;
+Write-Host $DynamicVariable;
