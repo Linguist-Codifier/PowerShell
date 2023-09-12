@@ -1,4 +1,7 @@
-# PowerShell Series
-PowerShell - A Journey into taking over the Windows object-oriented automation engine and scripting language.
+# PowerShell Series - [By Jonathan P. Marinho](https://www.linkedin.com/in/jonathan-pmarinho/)
+<h6><img src="https://www.fortra.com/sites/default/files/am-powershellscripts-automation_2.png" /></h6>
+
+PowerShell - A Journey into learning and taking over the Object-Oriented Automation Engine and Scripting Language.
 #
-PowerShell is an object-oriented automation engine and scripting language with an interactive command-line shell that Microsoft developed to help IT professionals configure systems and automate administrative tasks. [Learn more.](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3)
+
+Implemented in [C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/), PowerShell is an Object-Oriented Automation Engine and Scripting Language with an interactive command-line shell that Microsoft developed to help IT professionals configure systems and automate administrative tasks. [Learn more.](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3)
