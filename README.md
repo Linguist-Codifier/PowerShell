@@ -1,4 +1,4 @@
-# PowerShell Basics - [By Jonathan P. Marinho](https://www.linkedin.com/in/jonathan-pmarinho/)
+# PowerShell Basics
 <h6><img src="https://www.fortra.com/sites/default/files/am-powershellscripts-automation_2.png" /></h6>
 
 PowerShell - A Journey into learning and taking over the Object-Oriented Automation Engine and Scripting Language.
