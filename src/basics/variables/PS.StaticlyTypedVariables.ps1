@@ -14,4 +14,8 @@ Write-Host $RandomName;
 
 [Boolean]$TrueValue = $true; [Boolean]$FalseValue = $false; Write-Host;
 
-Write-Host "Boolean Data Type values admit only: [$TrueValue] or [$FalseValue]" -ForegroundColor Yellow;
+Write-Host "Boolean Data Type values admit only: [$TrueValue] or [$FalseValue]" -ForegroundColor Yellow; Write-Host;
+
+[Single]$Single = 3.7; Write-Host "Single Floating Point number: $Single" -ForegroundColor DarkCyan; Write-Host
+
+[Decimal]$Decimal = 100.9777; Write-Host "[Decimal] types are capable of storing more bits. A sample of decimal value is: $Decimal" -ForegroundColor DarkYellow;
