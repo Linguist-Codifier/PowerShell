@@ -4,9 +4,9 @@
 
 [String]$AnswerBuffer = Read-Host -prompt "Do you confirm your name is $ConsoleContentFromInput [y/n]";
     
-    while($AnswerBuffer -ne 'y' -and $AnswerBuffer -ne 'n') {
-        [String]$AnswerBuffer = Read-Host -prompt "Do you confirm your name is $ConsoleContentFromInput [y/n]";
-    }
+while($AnswerBuffer -ne 'y' -and $AnswerBuffer -ne 'n')
+{
+    [String]$AnswerBuffer = Read-Host -prompt "Do you confirm your name is $ConsoleContentFromInput [y/n]";
+}
 
-    Write-Host -ForegroundColor Yellow 'Thanks for your support.';
-
+Write-Host -ForegroundColor Yellow 'Thanks for your support.';
