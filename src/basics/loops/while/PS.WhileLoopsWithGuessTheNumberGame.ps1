@@ -6,9 +6,16 @@
 
 [Boolean]$DefaultMessageWasCalled = $false;
 
+Function CleanBuffer
+{
+    $Buffer = $null;
+}
+
 try
 {
     $Buffer = $null;
+
+    CleanBuffer;
 
     while(([Int32]$Buffer = Read-Host -Prompt $DefaultMessage) -ne $SecretNumber)
     {
