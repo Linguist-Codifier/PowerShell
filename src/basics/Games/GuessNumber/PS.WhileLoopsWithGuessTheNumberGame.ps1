@@ -41,4 +41,3 @@ finally
         Write-Host -ForegroundColor Yellow 'Congrats, you guessed it right!';
     }
 }
-
