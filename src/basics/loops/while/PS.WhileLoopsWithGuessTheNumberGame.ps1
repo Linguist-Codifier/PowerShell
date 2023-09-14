@@ -6,7 +6,7 @@
 
 [Boolean]$DefaultMessageWasCalled = $false;
 
-Function CleanBuffer
+Function CleanSecretNumberBuffer
 {
     $Buffer = $null;
 }
