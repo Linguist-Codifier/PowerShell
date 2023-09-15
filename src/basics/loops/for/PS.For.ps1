@@ -1,4 +1,4 @@
-﻿#PowerShell - By Jonathan P. Marinho | 15/09/2023 - 19:00AM
+﻿#PowerShell - By Jonathan P. Marinho | 15/09/2023 - 19:00PM
 
 for([Int32]$counter = 1; $counter -le 10; $counter++)
 {
