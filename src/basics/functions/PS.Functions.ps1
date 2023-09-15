@@ -4,3 +4,5 @@ Function Display-Error-Message
 {
     Write-Error 'An unexpected error has occured.';
 }
+
+Display-Error-Message;
